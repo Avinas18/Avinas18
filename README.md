@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Avinas</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **Full stack web development**
+- 🌱 I’m currently learning **Embedded Systems**
 
 - 📫 How to reach me **avinashofficial2004@gmail.com**
 
