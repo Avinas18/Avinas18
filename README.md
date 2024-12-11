@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Avinas</h1>
-<h3 align="center">A passionate Embedded Engineer from India</h3>
+<h3 align="center">A passionate Engineer from India</h3>
 
-- 🌱 I’m currently learning **Embedded Systems**
+- 🌱 I’m currently learning **Embedded Systems and Vlsi Design**
 
 - 📫 How to reach me **avinashofficial2004@gmail.com**
 
